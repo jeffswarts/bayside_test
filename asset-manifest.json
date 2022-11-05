@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bayside_test/static/css/main.607f70ac.css",
-    "main.js": "/bayside_test/static/js/main.81bb1465.js",
+    "main.css": "/bayside_test/static/css/main.c6a03412.css",
+    "main.js": "/bayside_test/static/js/main.01dcbaa8.js",
     "static/js/704.ff215124.chunk.js": "/bayside_test/static/js/704.ff215124.chunk.js",
     "static/js/763.112bdc55.chunk.js": "/bayside_test/static/js/763.112bdc55.chunk.js",
     "static/media/malkfleursby.png": "/bayside_test/static/media/malkfleursby.ad99236184804ff688be.png",
@@ -31,6 +31,7 @@
     "static/media/roy-nft.png": "/bayside_test/static/media/roy-nft.67d49a3f281dd9d06fd0.png",
     "static/media/instagram.png": "/bayside_test/static/media/instagram.e5fa71d9703562070719.png",
     "static/media/ea-sports.png": "/bayside_test/static/media/ea-sports.f6e9940cb9f74a43fca9.png",
+    "static/media/discord.png": "/bayside_test/static/media/discord.4c718ea9ac193a7240d9.png",
     "static/media/BebasKai.ttf": "/bayside_test/static/media/BebasKai.6d02e3d2de8c0e16c47e.ttf",
     "static/media/randi-sanchez.png": "/bayside_test/static/media/randi-sanchez.79c6a17fd045dc035d8a.png",
     "static/media/nike.png": "/bayside_test/static/media/nike.0742acb0cd838100bdba.png",
@@ -51,7 +52,7 @@
     "static/media/menu.svg": "/bayside_test/static/media/menu.a68949f3a67723cd026d2f67c01b6e4b.svg"
   },
   "entrypoints": [
-    "static/css/main.607f70ac.css",
-    "static/js/main.81bb1465.js"
+    "static/css/main.c6a03412.css",
+    "static/js/main.01dcbaa8.js"
   ]
 }
