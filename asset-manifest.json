@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/bayside_test/static/css/main.042f23b7.css",
-    "main.js": "/bayside_test/static/js/main.807625b0.js",
-    "static/js/563.4586e059.chunk.js": "/bayside_test/static/js/563.4586e059.chunk.js",
-    "static/js/299.7eeab733.chunk.js": "/bayside_test/static/js/299.7eeab733.chunk.js",
+    "main.css": "/bayside_test/static/css/main.607f70ac.css",
+    "main.js": "/bayside_test/static/js/main.81bb1465.js",
+    "static/js/704.ff215124.chunk.js": "/bayside_test/static/js/704.ff215124.chunk.js",
+    "static/js/763.112bdc55.chunk.js": "/bayside_test/static/js/763.112bdc55.chunk.js",
     "static/media/malkfleursby.png": "/bayside_test/static/media/malkfleursby.ad99236184804ff688be.png",
     "static/media/bayside-drums.wav": "/bayside_test/static/media/bayside-drums.7c93416ff7da39b174d8.wav",
     "static/media/randi-nft.png": "/bayside_test/static/media/randi-nft.bcb64db2aaf9d6570cf8.png",
@@ -51,7 +51,7 @@
     "static/media/menu.svg": "/bayside_test/static/media/menu.a68949f3a67723cd026d2f67c01b6e4b.svg"
   },
   "entrypoints": [
-    "static/css/main.042f23b7.css",
-    "static/js/main.807625b0.js"
+    "static/css/main.607f70ac.css",
+    "static/js/main.81bb1465.js"
   ]
 }
