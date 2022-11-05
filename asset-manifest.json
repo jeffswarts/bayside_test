@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bayside_test/static/css/main.042f23b7.css",
-    "main.js": "/bayside_test/static/js/main.38b4d769.js",
+    "main.js": "/bayside_test/static/js/main.807625b0.js",
     "static/js/563.4586e059.chunk.js": "/bayside_test/static/js/563.4586e059.chunk.js",
     "static/js/299.7eeab733.chunk.js": "/bayside_test/static/js/299.7eeab733.chunk.js",
     "static/media/malkfleursby.png": "/bayside_test/static/media/malkfleursby.ad99236184804ff688be.png",
@@ -45,12 +45,13 @@
     "static/media/twitter.svg": "/bayside_test/static/media/twitter.dd28a7c8d5550f1292218701cbd8d5e2.svg",
     "static/media/plus.svg": "/bayside_test/static/media/plus.87288fa14ceac891668db0fa58852c59.svg",
     "static/media/x-icon.svg": "/bayside_test/static/media/x-icon.a95b2f519f228da7155585988929d5b3.svg",
+    "static/media/coinbase.svg": "/bayside_test/static/media/coinbase.da2742715a6f9ede9f0508fd2a9cd82c.svg",
     "static/media/minus.svg": "/bayside_test/static/media/minus.36a4a3a863eaa372d15f8f5cab510a94.svg",
     "static/media/mute.svg": "/bayside_test/static/media/mute.b7d92fa1c21196021d32943e28300a33.svg",
     "static/media/menu.svg": "/bayside_test/static/media/menu.a68949f3a67723cd026d2f67c01b6e4b.svg"
   },
   "entrypoints": [
     "static/css/main.042f23b7.css",
-    "static/js/main.38b4d769.js"
+    "static/js/main.807625b0.js"
   ]
 }
