@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b70a418.css",
-    "main.js": "/static/js/main.9e0bda58.js",
+    "main.css": "/static/css/main.64e01e29.css",
+    "main.js": "/static/js/main.530d6508.js",
     "static/js/704.ff215124.chunk.js": "/static/js/704.ff215124.chunk.js",
     "static/js/763.b850da5e.chunk.js": "/static/js/763.b850da5e.chunk.js",
     "static/media/malkfleursby.png": "/static/media/malkfleursby.ad99236184804ff688be.png",
@@ -29,7 +29,6 @@
     "static/media/profile-bg.png": "/static/media/profile-bg.290c009128a942e14b8d.png",
     "static/media/Azeret-Mono.ttf": "/static/media/Azeret-Mono.c0dc2bec53e7b1c921b5.ttf",
     "static/media/roy-nft.png": "/static/media/roy-nft.67d49a3f281dd9d06fd0.png",
-    "static/media/instagram.png": "/static/media/instagram.e5fa71d9703562070719.png",
     "static/media/ea-sports.png": "/static/media/ea-sports.f6e9940cb9f74a43fca9.png",
     "static/media/discord.png": "/static/media/discord.4c718ea9ac193a7240d9.png",
     "static/media/BebasKai.ttf": "/static/media/BebasKai.6d02e3d2de8c0e16c47e.ttf",
@@ -52,7 +51,7 @@
     "static/media/menu.svg": "/static/media/menu.a68949f3a67723cd026d2f67c01b6e4b.svg"
   },
   "entrypoints": [
-    "static/css/main.8b70a418.css",
-    "static/js/main.9e0bda58.js"
+    "static/css/main.64e01e29.css",
+    "static/js/main.530d6508.js"
   ]
 }
