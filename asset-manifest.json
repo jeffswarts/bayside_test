@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bayside_test/static/css/main.fa3a5642.css",
-    "main.js": "/bayside_test/static/js/main.c54b4049.js",
+    "main.css": "/bayside_test/static/css/main.780966dd.css",
+    "main.js": "/bayside_test/static/js/main.2ef30303.js",
     "static/js/704.ff215124.chunk.js": "/bayside_test/static/js/704.ff215124.chunk.js",
     "static/js/763.112bdc55.chunk.js": "/bayside_test/static/js/763.112bdc55.chunk.js",
     "static/media/malkfleursby.png": "/bayside_test/static/media/malkfleursby.ad99236184804ff688be.png",
@@ -51,7 +51,7 @@
     "static/media/menu.svg": "/bayside_test/static/media/menu.a68949f3a67723cd026d2f67c01b6e4b.svg"
   },
   "entrypoints": [
-    "static/css/main.fa3a5642.css",
-    "static/js/main.c54b4049.js"
+    "static/css/main.780966dd.css",
+    "static/js/main.2ef30303.js"
   ]
 }
